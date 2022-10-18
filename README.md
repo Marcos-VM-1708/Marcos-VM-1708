@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá eu sou o Marcos
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicios-pereira-de-morais-256970241/)
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosvrumm/)
+
+
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-VM-1708&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-VM-1708&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Marcos-VM-1708/Marcos-VM-1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
